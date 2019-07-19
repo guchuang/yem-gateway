@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: yem-gateway
+Implementation-Version: 2.0.2.RELEASE
+Built-By: GuChuang
+Implementation-Vendor-Id: org.springframework.boot
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/yem-gateway
+Created-By: Maven Integration for Eclipse
+
