@@ -9,8 +9,13 @@ import org.springframework.security.config.annotation.web.configuration.WebSecur
 /**
  * 〈Security配置〉
  * Security配置
- * @author wangmx
- * @since 1.0.0
+ * Function: TODO ADD FUNCTION. <br/>
+ * Reason: TODO ADD REASON(可选). <br/>
+ * date: 2019年7月23日 上午9:58:54 <br/>
+ *
+ * @author <a href="mailto:hbszguchuang@163.com">guchuang</a>
+ * @version 
+ * @since JDK 1.8
  */
 @Configuration
 @EnableWebSecurity

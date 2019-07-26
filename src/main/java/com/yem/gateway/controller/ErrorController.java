@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
+import com.yem.common.BaseMsgResponse;
 import com.yem.constant.Constants;
-import com.yem.response.BaseMsgResponse;
 
 @ControllerAdvice
 @RequestMapping("/yem")

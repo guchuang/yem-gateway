@@ -13,11 +13,11 @@ import com.alibaba.fastjson.JSONObject;
 import com.netflix.zuul.ZuulFilter;
 import com.netflix.zuul.context.RequestContext;
 import com.netflix.zuul.exception.ZuulException;
+import com.yem.common.BaseMsg;
+import com.yem.common.BaseMsgHeader;
 import com.yem.constant.ApiConstant;
 import com.yem.exception.BaseException;
 import com.yem.exception.ParamException;
-import com.yem.request.BaseMsg;
-import com.yem.request.BaseMsgHeader;
 import com.yem.utils.FilterCodeUtils;
 
 import lombok.extern.slf4j.Slf4j;
